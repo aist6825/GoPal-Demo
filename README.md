@@ -4,7 +4,8 @@ This is a clickable link to a demo of GoPal, a group project for CU's Software D
 1:20
 
 #### Link
-[![YouTube Demo](youtube.com/watch?v=wGKKX9v0d2g&feature=youtu.be)]
+[[YouTube Demo]](https://youtube.com)](https://youtu.be/wGKKX9v0d2g?si=ozRUS7rJmEbMEpes)
+
 
 #### Notes
 This demo is ran locally, as we only host the website during designated times.
